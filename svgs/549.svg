@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 350">
+	<style>
+		.base { fill: white; font-family: serif; font-size: 14px; }
+	</style>
+	<rect width="100%" height="100%" fill="black" />
+<text x="10" y="20" class="base"> " </text>
+<image x="16" y="10" height="13" href="/content/1780a1283ec64aafdeb72175ecb372cfa98013e1cadfda0f3a379731674af461i0" style="image-rendering: pixelated;" />
+<image x= "80" y="10" height="13" href="/content/61497a4e3cc839c2c50ee3249ead5922a40f618e393603d4c7a232f59390f5cai0" style="image-rendering: pixelated;" />
+<text x="111" y="20" class="base"> " </text>
+<image x="120" y="10" height="13" href="/content/60d39281febd7c83b85904e8e20df29202783ab976a25ac48a4f1bc466ed6264i0" style="image-rendering: pixelated;" />
+<image x="195" y="10" height="13" href="/content/9294b637447313be42c4ac58ffd7f81b39fa4312b178f62504e4cc6ec404f3c9i0" style="image-rendering: pixelated;" />
+
+<image x="10" y="28" height="13" href="/content/ef20eeabd73caae0281804bfd319ace043f05009b29c66037b39e445bb646a82i0" style="image-rendering: pixelated;" />
+
+<image x="10" y="46" height="13" href="/content/e8512c774abe47bee1fa9d2fe8e7be4823fbb7529b433c067f5123680af15483i0" style="image-rendering: pixelated;" />
+
+<image x="10" y="64" height="13" href="/content/4ea78195bb4f4f3d9eae4d7fc1016ecad7de1070a4fd212582d2852be32f3312i0" style="image-rendering: pixelated;" />
+
+<image x="10" y="82" height="13" href="/content/4ddee00ea7f45b8e0aa87321bd657ef990ef7d734ada543efcaa6f26c115d6b9i0" style="image-rendering: pixelated;" />
+
+<image x="10" y="100" height="13" href="/content/5972df63208edfeb4ba40fb2e9951035f4ed00feeb149c28c7ea341d0af5fb97i0" style="image-rendering: pixelated;" />
+
+<image x="10" y="118" height="13" href="/content/b25107a43047710e6048399e9a10a32d80a2bdcecb0ac6435726c4f5bd240784i0" style="image-rendering: pixelated;" />
+<image x="62" y="118" height="13" href="/content/8d7df4a8f612073562630b422e597df0aedcb2b53683250346ac4670766b383fi0" style="image-rendering: pixelated;" />
+
+<image x="10" y="136" height="13" href="/content/94a81511b10dac1e4ead786d5c2ed6749f597a26b59db54fb9ddfb35d45549ffi0" style="image-rendering: pixelated;" />
+
+</svg>
